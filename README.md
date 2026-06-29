@@ -2,8 +2,6 @@
 A cybersecurity project analyzing the Samy Worm (MySpace) attack, explaining Stored XSS vulnerabilities, attack methodology, and modern prevention techniques.
 
 
-# XSS Defense Bootcamp Project
-
 ## Project Overview
 This repository contains my cybersecurity project on the famous Samy Worm attack on MySpace. The report explains how the Stored Cross-Site Scripting (XSS) vulnerability was exploited, its impact, and the security lessons learned.
 
