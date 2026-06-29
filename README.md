@@ -14,14 +14,14 @@ This repository contains my cybersecurity project on the famous Samy Worm attack
 - Security Lessons Learned
 - Best Practices for Preventing XSS
 
-## Technologies
+## Technologies ( use for report making only )
 - Web Security
 - HTML
 - JavaScript
 - Cybersecurity Concepts
 
 ## Repository Contents
-- `XSS_Defense_Bootcamp_Project.pdf`
+- `XSS_Defense_Bootcamp_Project(1).pdf`
 
 ## Disclaimer
 This project is created for educational and research purposes only. It does not encourage or promote unauthorized access or malicious activities.
